@@ -1,6 +1,6 @@
 {
   "name": "personal_site",
-  "homepage": "https://yangsiming99.github.io/didactic-barnacle",
+  "homepage": "https://yangsiming99.github.io/Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -b main -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
