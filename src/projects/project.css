@@ -1,0 +1,100 @@
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.project-card{
+  border: 1px solid rgb(223, 220, 220);
+  border-radius: 1em;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
+.image-half {
+  max-width: 50%;
+  width:50%;
+  padding: 1em;
+}
+
+.desc-half {
+  max-width: 50%;
+  padding:1em;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.toolButton {
+  margin: 2px;
+}
+
+.tools {
+  pointer-events: none;
+  border: 2px solid green;
+  padding: 5px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
+.url-tools {
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+.centerDiv {
+  width:80%;
+  margin:auto;
+  left:0;
+  right: 0;
+}
+
+.link-bar {
+  margin-top: 1em;
+}
+
+@media only screen and (max-width: 1200px) {
+  .image-half {
+    min-width: 100%;
+  }
+  .desc-half {
+    min-width: 100%;
+    text-align: center;
+  }
+  .toolbar {
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .image-half {
+    min-width: 100%;
+    padding:0em;
+  }
+  .desc-half {
+    min-width: 100%;
+    text-align: center;
+    padding: 0px;
+  }
+  .toolbar {
+    justify-content: center;
+  }
+  .project-card {
+    border: 0px solid rgb(223, 220, 220);
+    border-radius: 0em;
+    margin-bottom: 2em;
+  }
+  .centerDiv {
+    width:100%;
+  }
+}
