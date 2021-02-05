@@ -15,6 +15,7 @@
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 1em;
+  /* background-color: rgb(231, 231, 231); */
 }
 
 .image-half {

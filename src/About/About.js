@@ -19,7 +19,7 @@ const About = () => {
       <Jumbotron fluid className="header-background">
         <Container className="text-center">
           <h1 className="header-name"><b>Siming Yang</b></h1>
-          <h1>Title Goes Here</h1>
+          <h1>Developer</h1>
           <div className="button-bar">
             <button className="link-buttons">
             <a style={{all: 'unset'}} href="mailto:yang.siming@outlook.com?subject=Mail From the Portfolio">

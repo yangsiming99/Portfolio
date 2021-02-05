@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "./project.css";
-import { Card, Button, Container, Row, Col } from "react-bootstrap";
+import { Button } from "react-bootstrap";
 
 
 const ProjectCard = ({ 
@@ -29,7 +29,8 @@ const ProjectCard = ({
 				style={{
 					width: '100%', 
 					height:'auto',
-					borderRadius: '1em'
+					borderRadius: '1em',
+					border: '1px solid rgb(223, 220, 220)'
 				}} 
 				className="card-image" 
 				src={thumbnail}
@@ -73,24 +74,3 @@ const ProjectCard = ({
 }
 
 export default ProjectCard;
-
-					{/* <Col sm={12} md={12} lg={4} style={styles.card_image} className="justify-content-center">
-						<Card.Img variant="top" style={styles.card_image} src={thumbnail} />
-					</Col>
-					<Col sm={12} md={12} lg={7}>
-						<Card.Body>
-							<Card.Title><h3>{title}</h3></Card.Title>
-							<Card.Text>
-								{description}
-							</Card.Text>
-							<Card.Text style={{ display: 'flex' }}>
-								{technologies.map(
-									(tech, i) => <div style={styles.tools} variant="outline-success" key={i}>{tech}</div>
-								)}
-							</Card.Text>
-							<Card.Text>
-								<Button onClick={OpenLink} style={styles.urlTools}>Open Site</Button>
-								<Button onClick={OpenGithublink} style={styles.urlTools}>Github Repo</Button>
-							</Card.Text>
-						</Card.Body>
-					</Col> */}
