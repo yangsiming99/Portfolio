@@ -22,7 +22,7 @@ const About = () => {
           <h1>Developer</h1>
           <div className="button-bar">
             <button className="link-buttons">
-            <a style={{all: 'unset'}} href="mailto:yang.siming@outlook.com?subject=Mail From the Portfolio">
+            <a style={{all: 'unset'}} href="mailto:Simon.Yang1999@Outlook.com?subject=Mail From the Portfolio">
               <div>
               <FontAwesomeIcon className="font-awsome-icon" icon={faEnvelope} size="lg"/>
               Email
@@ -35,7 +35,7 @@ const About = () => {
                 Résumé
               </div>
             </button>
-            <button onClick={()=>openLink("https://github.com/YangSiming99")} className="link-buttons">
+            <button onClick={()=>openLink("https://github.com/SimonYang99")} className="link-buttons">
               <div>
                 <FontAwesomeIcon className="font-awsome-icon" icon={faGithubSquare} size="lg"/>
                 Github
