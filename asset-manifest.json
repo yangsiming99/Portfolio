@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.582d4269.chunk.css",
-    "main.js": "/Portfolio/static/js/main.22c1c51a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.22c1c51a.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.1fefdb99.chunk.css",
+    "main.js": "/Portfolio/static/js/main.9f0c2c2a.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.9f0c2c2a.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.3a16835a.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.3a16835a.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Portfolio/static/css/2.1a02f21c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.c7d76731.chunk.js.map": "/Portfolio/static/js/2.c7d76731.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/Portfolio/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.582d4269.chunk.css.map": "/Portfolio/static/css/main.582d4269.chunk.css.map",
+    "static/css/main.1fefdb99.chunk.css.map": "/Portfolio/static/css/main.1fefdb99.chunk.css.map",
     "static/js/2.c7d76731.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c7d76731.chunk.js.LICENSE.txt",
     "static/media/Database.3943e581.png": "/Portfolio/static/media/Database.3943e581.png",
     "static/media/Freightera.4bcca246.png": "/Portfolio/static/media/Freightera.4bcca246.png",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.3a16835a.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.c7d76731.chunk.js",
-    "static/css/main.582d4269.chunk.css",
-    "static/js/main.22c1c51a.chunk.js"
+    "static/css/main.1fefdb99.chunk.css",
+    "static/js/main.9f0c2c2a.chunk.js"
   ]
 }
