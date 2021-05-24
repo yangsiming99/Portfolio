@@ -18,7 +18,7 @@ const About = () => {
     <div id="About">
       <Jumbotron fluid className="header-background">
         <Container className="text-center">
-          <h1 className="header-name"><b>Siming Yang</b></h1>
+          <h1 className="header-name"><b>Simon Yang</b></h1>
           <h1>Developer</h1>
           <div className="button-bar">
             <button className="link-buttons">
