@@ -18,11 +18,11 @@ const About = () => {
     <div id="About">
       <Jumbotron fluid className="header-background">
         <Container className="text-center">
-          <h1 className="header-name"><b>Simon Yang</b></h1>
+          <h1 className="header-name"><b>Siming Yang</b></h1>
           <h1>Developer</h1>
           <div className="button-bar">
             <button className="link-buttons">
-            <a style={{all: 'unset'}} href="mailto:Simon.Yang1999@Outlook.com?subject=Mail From the Portfolio">
+            <a style={{all: 'unset'}} href="mailto:yang.siming@Outlook.com?subject=Mail From the Portfolio">
               <div>
               <FontAwesomeIcon className="font-awsome-icon" icon={faEnvelope} size="lg"/>
               Email
@@ -35,7 +35,7 @@ const About = () => {
                 Résumé
               </div>
             </button>
-            <button onClick={()=>openLink("https://github.com/SimonYang99")} className="link-buttons">
+            <button onClick={()=>openLink("https://github.com/yangsiming99")} className="link-buttons">
               <div>
                 <FontAwesomeIcon className="font-awsome-icon" icon={faGithubSquare} size="lg"/>
                 Github
