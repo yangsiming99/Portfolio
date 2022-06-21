@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d10bcb61.chunk.css",
-    "main.js": "/Portfolio/static/js/main.d20fecc2.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.d20fecc2.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.05292e5d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.05292e5d.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.472fdfe0.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.472fdfe0.js.map",
     "static/css/2.b4bef187.chunk.css": "/Portfolio/static/css/2.b4bef187.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/2.c9d71a9f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c9d71a9f.chunk.js.LICENSE.txt",
     "static/media/Database.3943e581.png": "/Portfolio/static/media/Database.3943e581.png",
     "static/media/Freightera.4bcca246.png": "/Portfolio/static/media/Freightera.4bcca246.png",
-    "static/media/portfolio.42aa5125.png": "/Portfolio/static/media/portfolio.42aa5125.png",
+    "static/media/portfolio.01d86d26.png": "/Portfolio/static/media/portfolio.01d86d26.png",
     "static/media/topstars.7ccbdadd.png": "/Portfolio/static/media/topstars.7ccbdadd.png"
   },
   "entrypoints": [
@@ -22,6 +22,6 @@
     "static/css/2.b4bef187.chunk.css",
     "static/js/2.c9d71a9f.chunk.js",
     "static/css/main.d10bcb61.chunk.css",
-    "static/js/main.d20fecc2.chunk.js"
+    "static/js/main.05292e5d.chunk.js"
   ]
 }
