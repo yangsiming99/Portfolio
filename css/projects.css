@@ -1,0 +1,47 @@
+.project {
+  display: flex;
+  flex-direction: column;
+}
+
+.projectImage {
+  flex: 1;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.projectDesc {
+  flex: 1;
+  text-align: center;
+  margin: 0px 25px 0px 25px;
+  position: relative;
+}
+
+.buttonBar {
+  position:absolute;
+  bottom:0px;
+  right: 0px;
+  left:0px
+}
+
+.hidden{
+  height: 150px;
+}
+
+.linkButtons {
+  width: 200px;
+  margin: 5px 5px 5px 5px;
+}
+
+@media only screen and (min-width: 700px) {
+  .project{
+    flex-direction: row;
+  }
+  .projectImage {
+    max-width: 50%;
+    width: 100%;
+  }
+
+  .hidden{
+    height: 125px;
+  }
+}

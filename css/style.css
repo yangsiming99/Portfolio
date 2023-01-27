@@ -1,0 +1,41 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+  font-weight: 300;
+}
+
+p {
+  text-align: left;
+  font-weight: 300  !important;
+}
+
+nav {
+  padding: 0px 15px 0px 15px;
+  z-index: 1;
+  background-color: white;
+  box-shadow: 0px 0px 15px 1px grey;
+}
+
+.section {
+  padding: 0px 15px 0px 15px
+}
+
+.sectionHeader {
+  margin:10px;
+  text-align: center;
+  font-weight: 300;
+  text-decoration: underline;
+}
+
+.sectionSubHeader {
+  margin-bottom:10px;
+  font-weight: 300;
+}
+
+.siteFooter {
+  height: 100px;
+  text-align: center;
+}
