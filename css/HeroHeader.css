@@ -76,7 +76,7 @@
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  transition: 0.5s
+  transition: 0.1s
 }
 
 .linkButton:hover {
@@ -107,6 +107,7 @@
   background-color: rgba(0, 0, 0, 0.13);
   padding: 25px;
   border-radius: 15px;
+  margin: 0px 15px 0px 15px;
 }
 
 .introInfo {
@@ -131,7 +132,7 @@
   margin: 0;
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 960px) {
   #heroHeader {
     flex-direction: row-reverse;
   }
